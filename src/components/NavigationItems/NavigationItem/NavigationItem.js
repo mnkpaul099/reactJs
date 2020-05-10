@@ -5,7 +5,9 @@ import classes from './NavigationItem.css';
 const navigationItem = () => {
     return ( 
         <div>
-            
+            <nav>
+                
+            </nav>
         </div>
      );
 }
